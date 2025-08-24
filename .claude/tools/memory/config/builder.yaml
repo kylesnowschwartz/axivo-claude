@@ -27,6 +27,6 @@ logging:
   showProgress: true
 
 path:
-  conversations: /Volumes/backup/claude/conversations
-  diary: /Volumes/backup/claude/diary
-  tool: /Users/floren/github/claude/.claude/tools/memory
+  conversations: /Users/kyle/Code/axivo-claude/conversations
+  diary: /Users/kyle/Code/axivo-claude/diary
+  tool: /Users/kyle/Code/axivo-claude/.claude/tools/memory
