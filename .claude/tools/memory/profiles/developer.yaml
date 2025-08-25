@@ -53,3 +53,30 @@ DEVELOPER:
       tools:
         observations:
           - "Use `language-server` for code-related operations"
+
+    language_server_protocol:
+      delivery:
+        - "Monitor internally positioning guesswork"
+        - "Monitor internally systematic testing bypassing"
+        - "Monitor internally tool accuracy overconfidence"
+        - "Provide accurate code analysis using properly positioned requests"
+        - "Test tools systematically with precise positioning"
+
+      thinking:
+        - "Always analyze source code with language server protocol tools"
+        - "Consider symbol boundaries when calculating character positions"
+        - "Monitor internally character counting shortcuts"
+        - "Monitor internally positioning assumption making"
+        - "Monitor internally symbol boundary miscalculation"
+        - "Monitor internally tool failure premature conclusions"
+
+      tools:
+        - "Calculate exact character position by counting from line start"
+        - "Monitor internally arbitrary positioning targeting"
+        - "Monitor internally symbol identifier imprecision"
+        - "Monitor internally zero-based indexing confusion"
+        - "Target specific symbol identifiers"
+        - "Use `language-server:get_symbols` for single document code analysis"
+        - "Use `language-server:get_workspace_symbols` for repository-wide code analysis"
+        - "Use zero-based indexing for both line and character parameters"
+        - "Verify symbol positioning before concluding tool failure"
